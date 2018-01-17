@@ -23,6 +23,7 @@
 #include<string>
 #include<vector>
 #include<sstream>
+#include<stdlib.h>
 #include"tree.h"
 
 using namespace std;
